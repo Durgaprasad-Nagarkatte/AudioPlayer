@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundApp</string>
+    <string name="start_song"> Start </string>
+    <string name="pause_song"> Pause </string>
+</resources>
